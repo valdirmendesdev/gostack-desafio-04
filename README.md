@@ -11,7 +11,7 @@
 <p align="center">
 
   <a href="https://rocketseat.com.br">
-    <img alt="Made by Valdir Mendes" src="https://img.shields.io/badge/made%20by-Valdir-Mendes-%2304D361">
+    <img alt="Made by Valdir Mendes" src="https://img.shields.io/badge/made%20by-Valdir-Mendes">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
