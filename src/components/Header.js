@@ -2,11 +2,15 @@ import React from 'react';
 
 function Header() {
   return (
-    <div>
-      <span>facebook</span>
-      <span>Meu perfil</span>
-      <img src="" alt="" />
-    </div>
+    <header>
+      <nav>
+        <img src="https://i.imgur.com/KDIDiSE.png" />
+        <div>
+          <span>Meu perfil</span>
+          <i className="material-icons">account_circle</i>
+        </div>
+      </nav>
+    </header>
   )
 }
 
